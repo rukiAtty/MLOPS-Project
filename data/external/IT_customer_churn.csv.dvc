@@ -1,0 +1,4 @@
+outs:
+- md5: 69fa9b1090755c05ca4645f548b26222
+  size: 900017
+  path: IT_customer_churn.csv
